@@ -13,7 +13,7 @@ target/
 .springBeans
 .sts4-cache
 
-
+#Idea
 .idea
 *.iws
 *.iml
@@ -26,6 +26,19 @@ target/
 /nbdist/
 /.nb-gradle/
 build/
+
+
+out/
+log/
+
+#node,npm
+node_modules/
+dist/
+**/resources/public/
+
+#other
+*.log
+*.log*
 
 
 
