@@ -32,7 +32,6 @@ out/
 log/
 
 #node,npm
-node_modules/
 dist/
 **/resources/public/
 
@@ -42,3 +41,4 @@ dist/
 
 
 
+/node_modules/
